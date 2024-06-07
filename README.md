@@ -33,12 +33,12 @@ pip install tensorflow keras pandas numpy scikit-learn matplotlib
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/iris-classification-tf.git
+   git clone https://github.com/vurali/iris_classification_tf.git
    cd iris-classification-tf
    ```
 2. Open the Jupyter Notebook:
    ```sh
-     jupyter notebook Iris_Classification_TF.ipynb
+     jupyter notebook Iris_Classification_tf.ipynb
     ```
 3. Run the Notebook:
    Follow the steps in the notebook to execute the code cells. The notebook is organized sequentially, so start from the top and work your way down.
@@ -56,6 +56,7 @@ If you would like to contribute to this project, feel free to open a pull reques
 
 
 ## Author
-This project was created by **Murali Krishna** Email: pulimurali07@gmail.com
+This project was created by **Murali Krishna** 
+Email: pulimurali07@gmail.com
 
 
